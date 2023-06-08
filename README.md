@@ -1,16 +1,20 @@
-### Hi there 👋
+🤗**About me:
 
-<!--
-**reniike/reniike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤗*Hello! I'm an enthusiastic learner of software engineering that has a love for developing innovative solutions. I'm in the process of obtaining a certification in software engineering and enjoy picking up new technologies.
 
-Here are some ideas to get you started:
+👩🏽‍💻**Education:
+👩🏽‍💻*Currently, I'm a software engineering student at Semicolon Africa. Through my studies, I have developed a solid foundation in the principles of data structures, algorithms, programming basics, test-driven development, object-oriented programming, software engineering principles, web development fundamentals, and programming using Git.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏽‍💻**Skill:
+👩🏽‍💻🌟*Programming: 
+- Java
+- Python
+- Django
+- Web Development: HTML, CSS, JavaScript, React
+- Databases: SQL, MySQL, MongoDB
+- Software Development Tools: Git, GitHub, IntelliJ IDEA, VS Code
+- Problem Solving: Algorithms, Data Structures
+
+🌟*How to reach me: https://www.linkedin.com/in/aliyah-babs-olokode-94244219a/
+💙*Pronouns: she/they
+
