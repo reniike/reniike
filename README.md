@@ -11,26 +11,26 @@ I have successfully completed my certification in software engineering and i am 
 I am always eager to tackle new challenges and contribute to creating innovative software solutions. Let's connect and discuss how I can be a valuable asset to your team or project!
 
 👩🏽‍💻Skills:
--Java (including Spring Boot Development)
--Python Programming
--JavaScript
--React
--Web Development: HTML, CSS
--Databases: SQL, MySQL, MongoDB
--Software Development Tools: Git, GitHub, IntelliJ IDEA, VS Code
--Problem Solving: Algorithms, Data Structures
--RESTful API Implementation
--Troubleshooting and Debugging
--Performance Optimization
--Security and Data Protection
--Data Retrieval and Searching
--Unit Testing
--Version Control with Git and GitHub
--Agile and Scrum Methodology
--Web Development
--UI/UX with Figma
+- Java (including Spring Boot Development)
+- Python Programming
+- JavaScript
+- React
+- Web Development: HTML, CSS
+- Databases: SQL, MySQL, MongoDB
+- Software Development Tools: Git, GitHub, IntelliJ IDEA, VS Code
+- Problem Solving: Algorithms, Data Structures
+- RESTful API Implementation
+- Troubleshooting and Debugging
+- Performance Optimization
+- Security and Data Protection
+- Data Retrieval and Searching
+- Unit Testing
+- Version Control with Git and GitHub
+- Agile and Scrum Methodology
+- Web Development
+- UI/UX with Figma
 
-🌟How to reach me: https://www.linkedin.com/in/aliyah-babs-olokode-94244219a/ or renikecodes@gmail.com
+How to reach me: https://www.linkedin.com/in/aliyah-babs-olokode-94244219a/ or renikecodes@gmail.com
 
-🌟Pronouns: she/they
+Pronouns: she/they
 
