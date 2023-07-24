@@ -5,9 +5,6 @@ I'm a passionate software engineer with a love for developing innovative solutio
 
 👩🏽‍💻Experience:
 I have acquired valuable experience in software engineering through my studies at Semicolon Africa. During this time, I gained expertise in various areas including data structures, algorithms, programming basics, test-driven development, object-oriented programming, web development fundamentals, and Git version control.
-
-I have successfully completed my certification in software engineering and i am ready to apply my knowledge and skills in real-world projects.
-
 I am always eager to tackle new challenges and contribute to creating innovative software solutions. Let's connect and discuss how I can be a valuable asset to your team or project!
 
 👩🏽‍💻Skills:
