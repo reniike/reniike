@@ -1,33 +1,32 @@
-About me:
+About Me:
 
-Hello!🤗
-I'm a passionate software engineer with a love for developing innovative solutions. I have a solid foundation in software engineering principles and a knack for picking up new technologies. With a focus on continuous learning, I strive to stay updated with the latest advancements in the field.
+👋 Hey there! I'm a passionate software engineer who loves crafting innovative solutions. I'm rooted in software engineering principles and love diving into new technologies. I'm all about continuous learning to stay at the cutting edge and I'm a fast learner.
 
-👩🏽‍💻Experience:
-I have acquired valuable experience in software engineering through my studies at Semicolon Africa. During this time, I gained expertise in various areas including data structures, algorithms, programming basics, test-driven development, object-oriented programming, web development fundamentals, and Git version control.
-I am always eager to tackle new challenges and contribute to creating innovative software solutions. Let's connect and discuss how I can be a valuable asset to your team or project!
+Experience:
 
-👩🏽‍💻Skills:
-- Java (including Spring Boot Development)
-- Python Programming
-- JavaScript
-- React
-- Web Development: HTML, CSS
-- Databases: SQL, MySQL, MongoDB
-- Software Development Tools: Git, GitHub, IntelliJ IDEA, VS Code
-- Problem Solving: Algorithms, Data Structures
-- RESTful API Implementation
-- Troubleshooting and Debugging
-- Performance Optimization
-- Security and Data Protection
-- Data Retrieval and Searching
-- Unit Testing
-- Version Control with Git and GitHub
-- Agile and Scrum Methodology
-- Web Development
-- UI/UX with Figma
+🎓 I honed my software engineering skills at Semicolon Africa. My experience covers data structures, algorithms, TDD, OOP, web development basics, and Git version control. I thrive on challenges and creating game-changing software. Let's chat about how I can contribute to your team or project!
 
-How to reach me: https://www.linkedin.com/in/aliyah-babs-olokode-94244219a/ or renikecodes@gmail.com
+Skills:
+
+🚀 Java (including Spring Boot)
+🐍 Python
+☕ JavaScript
+☕ Node JS
+⚛ React
+🌐 Web Dev: HTML, CSS, Tailwind CSS
+📊 Databases: SQL, MySQL, MongoDB
+🔧 Tools: Git, GitHub, IntelliJ IDEA, VS Code
+🔍 Problem Solving: Algorithms, Data Structures
+🌐 RESTful APIs
+🐛 Debugging
+🔒 Security
+📊 Data Retrieval
+✅ Unit Testing
+🗂️ Version Control
+🏗️ Agile & Scrum
+🎨 UI/UX with Figma
+
+📬 LinkedIn: Profile Link
+📧 Email: renikecodes@gmail.com
 
 Pronouns: she/they
-
