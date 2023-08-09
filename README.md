@@ -26,7 +26,7 @@ Skills:
 🏗️ Agile & Scrum
 🎨 UI/UX with Figma
 
-📬 LinkedIn: Profile Link
+📬 LinkedIn: www.linkedin.com/in/aliyah-babs-olokode-94244219a/
 📧 Email: renikecodes@gmail.com
 
 Pronouns: she/they
