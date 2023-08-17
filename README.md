@@ -4,23 +4,22 @@ About Me:
 
 Experience:
 
-🎓 I honed my software engineering skills at Semicolon Africa. My experience covers data structures, algorithms, TDD, OOP, web development basics, and Git version control. I thrive on challenges and creating game-changing software. Let's chat about how I can contribute to your team or project!
+🎓I'm experienced in data structures, algorithms, TDD, OOP, web development basics, SDLC, and Git version control. I enjoy challenges and making impactful software.
 
 Skills:
 
-🚀 Java (including Spring Boot)
+🚀 Java Spring Boot
 🐍 Python
 ☕ JavaScript
 ☕ Node JS
 ⚛ React
-🌐 Web Dev: HTML, CSS, Tailwind CSS
+🌐 Web Dev: HTML, CSS, Tailwind CSS, Chakra UI, Bootstrap
 📊 Databases: SQL, MySQL, MongoDB
 🔧 Tools: Git, GitHub, IntelliJ IDEA, VS Code
 🔍 Problem Solving: Algorithms, Data Structures
 🌐 RESTful APIs
 🐛 Debugging
 🔒 Security
-📊 Data Retrieval
 ✅ Unit Testing
 🗂️ Version Control
 🏗️ Agile & Scrum
