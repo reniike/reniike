@@ -2,10 +2,6 @@ About Me:
 
 👋 Hey there! I'm a passionate software engineer who loves crafting innovative solutions. I'm rooted in software engineering principles and love diving into new technologies. I'm all about continuous learning to stay at the cutting edge and I'm a fast learner.
 
-Experience:
-
-🎓I'm experienced in data structures, algorithms, TDD, OOP, web development basics, SDLC, and Git version control. I enjoy challenges and making impactful software.
-
 Skills:
 
 🚀 Java Spring Boot
