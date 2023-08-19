@@ -1,25 +1,28 @@
 About Me:
 
-👋 Hey there! I'm a passionate software engineer who loves crafting innovative solutions. I'm rooted in software engineering principles and love diving into new technologies. I'm all about continuous learning to stay at the cutting edge and I'm a fast learner.
+I'm a software engineer who enjoys creating new solutions. I believe in learning and staying updated with the latest tech trends, and I'm a quick learner.
 
-Skills:
 
-🚀 Java Spring Boot
-🐍 Python
-☕ JavaScript
-☕ Node JS
-⚛ React
-🌐 Web Dev: HTML, CSS, Tailwind CSS, Chakra UI, Bootstrap
-📊 Databases: SQL, MySQL, MongoDB
-🔧 Tools: Git, GitHub, IntelliJ IDEA, VS Code
-🔍 Problem Solving: Algorithms, Data Structures
-🌐 RESTful APIs
-🐛 Debugging
-🔒 Security
-✅ Unit Testing
-🗂️ Version Control
-🏗️ Agile & Scrum
-🎨 UI/UX with Figma
+## Skills
+
+* 🚀 Java Spring Boot
+* ☕ JavaScript
+* ☕ Node JS
+* ⚛ React
+* 🐍 Python
+* 🌐 Web Development: HTML, CSS, Tailwind CSS, Chakra UI
+* 📊 Databases: MySQL, MongoDB, PostgreSQL
+* 🔧 Tools: Git, GitHub, IntelliJ IDEA, VS Code
+* 🔍 Problem Solving: Algorithms, Data Structures
+* 🌐 RESTful APIs
+* 🐛 Debugging
+* 🔒 Security
+* ✅ Unit Testing , Test-driven development (TDD)
+* 🏗️ Agile & Scrum
+* 🎨 UI/UX with Figma
+
+
+
 
 📬 LinkedIn: www.linkedin.com/in/aliyah-babs-olokode-94244219a/
 📧 Email: renikecodes@gmail.com
