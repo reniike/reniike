@@ -5,21 +5,21 @@ I'm a software engineer who enjoys creating new solutions. I believe in learning
 
 ## Skills
 
-* 🚀 Java Spring Boot
-* ☕ JavaScript
-* ☕ Node JS
-* ⚛ React
-* 🐍 Python
-* 🌐 Web Development: HTML, CSS, Tailwind CSS, Chakra UI
-* 📊 Databases: MySQL, MongoDB, PostgreSQL
-* 🔧 Tools: Git, GitHub, IntelliJ IDEA, VS Code
-* 🔍 Problem Solving: Algorithms, Data Structures
-* 🌐 RESTful APIs
-* 🐛 Debugging
-* 🔒 Security
-* ✅ Unit Testing , Test-driven development (TDD)
-* 🏗️ Agile & Scrum
-* 🎨 UI/UX with Figma
+* Java Spring Boot
+* JavaScript
+* Node JS
+* React
+* Python
+* Web Development: HTML, CSS, Tailwind CSS, Chakra UI
+* Databases: MySQL, MongoDB, PostgreSQL
+* Tools: Git, GitHub, IntelliJ IDEA, VS Code
+* Problem Solving: Algorithms, Data Structures
+* RESTful APIs
+* Debugging
+* Security
+* Unit Testing , Test-driven development (TDD)
+* Agile & Scrum
+* UI/UX with Figma
 
 
 
