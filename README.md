@@ -6,5 +6,3 @@ I'm a software engineer that enjoys creating new solutions. I believe in learnin
 
 📬 LinkedIn: www.linkedin.com/in/aliyah-babs-olokode-94244219a/
 📧 Email: renikecodes@gmail.com
-
-Pronouns: she/they
